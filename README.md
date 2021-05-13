@@ -1,4 +1,4 @@
-# bloc_test
+# This not a BloC Pattern but more like a BloC - Singleton Hybrid, which works for my usecase
 
 A new Flutter project.
 
